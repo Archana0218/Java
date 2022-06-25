@@ -15,7 +15,7 @@ public static void main(String args[]) throws IOException
 		BufferedReader br=new BufferedReader();
 		System.out.println("Enter Your Name: ");
 		String name=br.readLine();
-System.out.println("Welcome:"+name);
+		System.out.println("Welcome:"+name);
 
 
 	}
@@ -24,5 +24,3 @@ System.out.println("Welcome:"+name);
 	
 
 }
-
-

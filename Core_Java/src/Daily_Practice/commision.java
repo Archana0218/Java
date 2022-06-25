@@ -17,7 +17,8 @@ public class commision
     void Empdet() {
         Scanner in = new Scanner(System.in);
         System.out.print("Enter employee name: "+name);
-        String  name = in.next();
+        @SuppressWarnings("unused")
+		String  name = in.next();
         System.out.print("Enter employee phone: "+ph);
          ph= in.nextInt();
         System.out.print("Enter employee address: "+add);
@@ -44,7 +45,7 @@ public class commision
     }
     
     void display() {
-        String name;
+       
 		System.out.println("Employee name: " +name);
         System.out.println("Employee phone: " +ph);
         System.out.println("Employee Adress: "+add);
