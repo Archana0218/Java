@@ -16,6 +16,6 @@ public class while_loop {
 			i++;j++;
 			System.out.println("i= "+i +" and j= "+j);
 		}
-	}
+			}
 
 }

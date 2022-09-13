@@ -1,7 +1,7 @@
 package Daily_Practice;
 
 public class Staticage {
-static int age;
+	static int age;
 
 	public static void main(String[] args) {
 		Staticage a=new Staticage();

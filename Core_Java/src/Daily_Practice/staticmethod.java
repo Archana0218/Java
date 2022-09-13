@@ -1,4 +1,6 @@
 package Daily_Practice;
+/*it is used to initialize the static data member,
+ * It is excuted before the main method at the time of classloading*/
 
 public class staticmethod {
 	static int i=100;

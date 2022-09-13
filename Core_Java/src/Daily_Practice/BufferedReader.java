@@ -20,6 +20,13 @@ public static void main(String args[]) throws IOException
 
 	}
 
+private String name="archana";
+
+private String readLine() {
+	// TODO Auto-generated method stub
+	return name;
+}
+
 	
 	
 

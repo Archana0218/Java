@@ -1,5 +1,5 @@
 package Daily_Practice;
-
+// its one base class inheriting one sub derived cls
 public class Single_Inheritance 
 {
 
